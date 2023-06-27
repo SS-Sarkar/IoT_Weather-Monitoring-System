@@ -12,14 +12,14 @@ The WMS app, developed using MIT App Inventor, provides a user-friendly interfac
 
 To set up the system, I followed these steps:
 
-a.  Connected the DHT11, LDR, and rain sensor to the Arduino board as per the pin connections provided in the code.
-b.  Installed the necessary libraries for DHT11, LDR, and Blynk in the Arduino IDE.
-c.  Created a Blynk account and obtain the required Blynk authentication token.
-d.  Configured the Blynk app and map the virtual pins to the respective sensor readings.
-e.  Flashed the Arduino with the code to collect data from the sensors and send it to the Blynk server.
-f.  Created the WMS app using MIT App Inventor.
-g.  Downloaded and installed the WMS app on my smartphone using the APK file or we can compile it using the MIT App Inventor.
-h.  Also downloaded the Blynk mobile app
+a).  Connected the DHT11, LDR, and rain sensor to the Arduino board as per the pin connections provided in the code.
+b).  Installed the necessary libraries for DHT11, LDR, and Blynk in the Arduino IDE.
+c).  Created a Blynk account and obtain the required Blynk authentication token.
+d).  Configured the Blynk app and map the virtual pins to the respective sensor readings.
+e).  Flashed the Arduino with the code to collect data from the sensors and send it to the Blynk server.
+f).  Created the WMS app using MIT App Inventor.
+g).  Downloaded and installed the WMS app on my smartphone using the APK file or we can compile it using the MIT App Inventor.
+h).  Also downloaded the Blynk mobile app
 
 With the WMS or Blynk app, we can stay informed about the weather conditions in real-time, whether we're at home or on the go. Get ready to explore the WMS app and experience a new level of weather monitoring!
 
