@@ -3,6 +3,7 @@
 The Weather Monitoring System (WMS) is a comprehensive project that utilizes various sensors to monitor weather conditions and sends the collected data to the Blynk server. The system incorporates the DHT11 temperature and humidity sensor, LDR (Light Dependent Resistor), and a rain sensor to provide real-time weather information.
 
 Features:
+
 🌡️ Temperature and Humidity Monitoring: The DHT11 sensor measures temperature and humidity levels, providing accurate and up-to-date readings.
 
 ☀️ Light Intensity Detection: The LDR sensor allows monitoring of the ambient light intensity, helping to determine the brightness of the environment and with this we can see it is night or day.
